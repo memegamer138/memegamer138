@@ -39,10 +39,22 @@ Graduated with ~90%, multiple academic awards.
 - Data pipeline in Python (pandas, NumPy), visualization with Matplotlib/Plotly  
 [GitHub Repo](https://github.com/ubco-W2022T2-data301/Group35)
 
-**BC Hackathon** (Nov 2022)  
-- Developed a web app to assess fire-hazard safety readiness  
-- Designed UI, weighted scoring, and report generation  
-[GitHub Repo](https://github.com/memegamer138/UBCOhackathon2022)
+**AI Powered Social Engineering Detection** (September 2025 - December 2025)  
+- Lead the development of AI agent workflows to automate the analysis and interpretation of security threats in electronic messages.
+- Built and optimized Python APIs  to deliver real-time security assessments to browser and email plugins developed through JavaScript.
+- Engineered prompt strategies to improve AI accuracy in identifying phishing tactics, working towards a 90% success rate for actionable user advice.
+Technologies: Python, FastAPI, LLM/Prompt Engineering, Agno, JS
+
+**VimiLabs Research Platform — Security Vulnerability Assessment** (September 2025 - December 2025)
+- Conducted a comprehensive security risk assessment, employing methodology aligned with STRIDE threat modeling principles to identify vulnerabilities.
+- Actively looked for business logic vulnerabilities enabling data duplication and unauthorized access
+- Applied OWASP methodologies to assess authentication, file processing, and cloud infrastructure
+
+**Nova AI — Local AI Assistant Framework** (Nov 2025 - Ongoing)
+- Built a local LLM-powered CLI assistant that converts natural language prompts into structured JSON actions for execution.
+- Integrated Ollama as the inference backend with a regex fallback for offline reliability.
+- Designed a modular skill system for extendable capabilities (e.g., file management, analysis).
+- Added safety gating for destructive actions and planned voice/UI extensions 
 
 ---
 
