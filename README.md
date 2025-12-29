@@ -61,14 +61,16 @@ Technologies: Python, FastAPI, LLM/Prompt Engineering, Agno, JS
 ## 🛠️ Skills
 
 **Technical Skills**  
-- Python  
-- Java  
-- Security Tools (wireshark, nmap, metasploit)
+- **Security Domains:** Vulnerability Assessment, Threat Intelligence, Log Analysis, Cloud Security, Data Protection
+- **Tools & Platforms:** Burp Suite, Nmap, Wireshark, VirusTotal, Google OSV, Metasploit, Linux, Windows, Docker, AWS, Splunk
+- **Communication:** Technical Writing, Report Generation, Cross-functional Collaboration
+- **Concepts & Frameworks:** OWASP Top 10, AI/LLM Security, RCE Vulnerabilities, Network Analysis, Threat Modelling (STRIDE-DREAD)
+
 
 
 **Hobbies & Interests**  
 - Gaming  
-- Hacking
+- HTB Labs
 - Music
 
 ---
