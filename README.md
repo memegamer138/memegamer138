@@ -29,7 +29,7 @@ Graduated with ~90%, multiple academic awards.
 - Performing Risk Assessments on Tools prior to procurement
 - Connecting with vendors
 - Penetration Testing and Red Teaming
-- 
+
 **HR Data Analyst** – [Prodapt](https://www.prodapt.com/) (Jul 2023 – Aug 2023)  
 - Analyzed current and past employee data  
 - Identified performance trends and prepared reports  
