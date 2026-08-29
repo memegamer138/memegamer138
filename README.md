@@ -23,7 +23,13 @@ Graduated with ~90%, multiple academic awards.
 ---
 
 ## 💼 Work & Projects
-
+**Junior Security Analyst** - [BC Pension Corporation](https://www.pensionsbc.ca/home) (May 2026-August 2026)
+- Continuous SOC monitoring through SIEM tools
+- Incident Investigation and Response
+- Performing Risk Assessments on Tools prior to procurement
+- Connecting with vendors
+- Penetration Testing and Red Teaming
+- 
 **HR Data Analyst** – [Prodapt](https://www.prodapt.com/) (Jul 2023 – Aug 2023)  
 - Analyzed current and past employee data  
 - Identified performance trends and prepared reports  
